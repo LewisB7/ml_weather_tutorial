@@ -130,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# files
+era5_mslp_UK_2017_2020.nc
